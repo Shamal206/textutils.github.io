@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textutilsShamal/static/css/main.e6c13ad2.css",
+    "main.js": "/textutilsShamal/static/js/main.1bce9531.js",
+    "static/js/787.28cb0dcd.chunk.js": "/textutilsShamal/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/textutilsShamal/index.html",
+    "main.e6c13ad2.css.map": "/textutilsShamal/static/css/main.e6c13ad2.css.map",
+    "main.1bce9531.js.map": "/textutilsShamal/static/js/main.1bce9531.js.map",
+    "787.28cb0dcd.chunk.js.map": "/textutilsShamal/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1bce9531.js"
+  ]
+}
